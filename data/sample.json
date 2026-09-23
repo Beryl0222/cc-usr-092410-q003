@@ -1,0 +1,9 @@
+{
+  "event_id": "sample-001-001",
+  "event_type": "RULE_ACTIVATED",
+  "aggregate_type": "competition_rule",
+  "aggregate_id": "emerging_sport_ruling-001",
+  "occurred_at": "2026-09-20T18:00:00+08:00",
+  "version": 1,
+  "summary": "登记新兴赛项裁判证据台的首条领域记录"
+}

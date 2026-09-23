@@ -1,0 +1,11 @@
+{
+  "name": "emerging-sport-ruling",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "领域事件基础校验",
+  "scripts": {
+    "test": "node --test",
+    "build": "node --check src/validator.js"
+  }
+}
