@@ -6,6 +6,6 @@
   "description": "领域事件基础校验",
   "scripts": {
     "test": "node --test",
-    "build": "node --check src/validator.js"
+    "build": "for f in src/*.js; do node --check \"$f\" || exit 1; done"
   }
 }

@@ -23,7 +23,22 @@
         "ROUND_STARTED",
         "EVIDENCE_RECORDED",
         "RULING_AMENDED",
-        "RESULT_CERTIFIED"
+        "RESULT_CERTIFIED",
+        "REVIEWER_REGISTERED",
+        "APPEAL_ACCEPTED",
+        "APPEAL_QUARANTINED",
+        "EVIDENCE_ATTACHED",
+        "EVIDENCE_QUARANTINED",
+        "DOUBT_RAISED",
+        "RECUSAL_SCREENED",
+        "REVIEWER_ASSIGNED",
+        "RULING_SIGNED",
+        "RULING_ISSUED",
+        "SCORE_CORRECTED",
+        "RETRIAL_SUGGESTED",
+        "RETRIAL_OPENED",
+        "RANKING_PUBLISHED",
+        "APPEAL_WINDOW_CLOSED"
       ]
     },
     "aggregate_type": {
@@ -32,7 +47,9 @@
         "competition_rule",
         "contest_round",
         "score_evidence",
-        "appeal_case"
+        "appeal_case",
+        "reviewer",
+        "ranking_publication"
       ]
     },
     "aggregate_id": {
